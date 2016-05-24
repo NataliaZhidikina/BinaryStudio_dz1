@@ -17,5 +17,11 @@ namespace ConcoleApp
         {
             Console.WriteLine("GoodBye");
         }
+        static public void drawCat()
+        {
+            Console.WriteLine(" ^_^ ");
+            Console.WriteLine("(`I')");
+            Console.ReadLine();
+        }
     }
 }
