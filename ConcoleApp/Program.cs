@@ -12,6 +12,7 @@ namespace ConcoleApp
         {
             AdditionalClass.sayHello();
             AdditionalClass.sayGoodBye();
+            AdditionalClass.drawCat();
         }
     }
 }
