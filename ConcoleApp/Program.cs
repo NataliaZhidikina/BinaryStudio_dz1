@@ -10,6 +10,8 @@ namespace ConcoleApp
     {
         static void Main(string[] args)
         {
+            AdditionalClass.sayHello();
+            AdditionalClass.sayGoodBye();
         }
     }
 }
